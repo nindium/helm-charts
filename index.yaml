@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  unbound:
+  - apiVersion: v1
+    appVersion: "1"
+    created: "2021-04-24T22:58:37.061829835-04:00"
+    description: My custom unbound DNS server chart
+    digest: ed362bcddac233fd866d5f7fb973c946c8b36a1594c20990b8ce1e7f868d2f32
+    name: unbound
+    urls:
+    - unbound-0.2.0.tgz
+    version: 0.2.0
+generated: "2021-04-24T22:58:37.061031831-04:00"
